@@ -1,2 +1,2 @@
 # snakegame
-https://Briju-nitt/snakegame/
+https://Briju-nitt.github.io/snakegame/
